@@ -1,6 +1,6 @@
 性能调优必备利器之JMH
 
-链接：https://mp.weixin.qq.com/s/VvYhpzRNlhK_qOyHYJBo3A
+参考文章链接：https://mp.weixin.qq.com/s/VvYhpzRNlhK_qOyHYJBo3A
 
 if 快还是 switch 快？HashMap 的初始化 size 要不要指定，指定之后性能可以提高多少？各种序列化方法哪个耗时更短？
 
